@@ -1,0 +1,28 @@
+name: Tyler Conlin
+favicon: null
+layout_spectrum: 0.7553856095764786
+typography_spectrum: 0.0834689384792
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.37710168631747365
+  lightness: 0.5971457110717893
+  saturation: 0.5977860095445067
+  rhythmicContrast: 0.3697476137895137
+purpose: []
